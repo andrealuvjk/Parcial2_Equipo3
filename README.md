@@ -86,5 +86,5 @@ Calcular la fecha de devolución según el tipo de material (7 días o 3 días).
 Enviar la respuesta al frontend, que la mostrará al usuario.
 
 Flujo general: el usuario presiona el botón de préstamo → el frontend envía la petición al backend con el código del material → el backend valida, registra el préstamo y responde → el frontend muestra el resultado al usuario.
-En esta evaluación la parte Python y la parte frontend se desarrollaron y evaluaron de manera independiente; no existe una conexión real entre ambas. La explicación anterior es conceptual.
+
 

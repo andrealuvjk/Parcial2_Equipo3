@@ -16,6 +16,10 @@ Víctor Javier Vásquez Ceron
 
 
 Escenario seleccionado: A – Sistema de biblioteca
+
+
+
+
 Descripción de la solución
 Demostración de un sistema de biblioteca universitaria que representa dos tipos de recursos disponibles para préstamo: libros y revistas, cada uno con características y plazos de préstamo distintos. La solución tiene dos partes que se desarrollaron de forma independiente:
 Python: modelos orientados a objetos (biblioteca.py) y un programa (main.py) que registra seis materiales y muestra su información y sus días de préstamo.

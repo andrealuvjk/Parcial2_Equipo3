@@ -6,7 +6,7 @@ Sistema de Biblioteca Universitaria
 
  
  
- 
+ Integrantes:
  Fátima Andrea Ochoa Amaya
 Gabriela Nicole Aquino Solí
 Diego Omar Landaverde Ayala 

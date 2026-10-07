@@ -1,5 +1,12 @@
 Sistema de Biblioteca Universitaria
+                             
+                               
+                               
                                Nombre del equipo: Equipo3
+
+ 
+ 
+ 
  Fátima Andrea Ochoa Amaya
 Gabriela Nicole Aquino Solí
 Diego Omar Landaverde Ayala 

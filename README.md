@@ -7,11 +7,11 @@ Sistema de Biblioteca Universitaria
  
  
  Integrantes:
- Fátima Andrea Ochoa Amaya
-Gabriela Nicole Aquino Solí
-Diego Omar Landaverde Ayala 
-Katherine Yamileth Mancía Hernández
-Saira Stephanie Melgar Abrego
+ Fátima Andrea Ochoa Amaya,
+Gabriela Nicole Aquino Solí,
+Diego Omar Landaverde Ayala, 
+Katherine Yamileth Mancía Hernández,
+Saira Stephanie Melgar Abrego,
 Víctor Javier Vásquez Ceron 
 
 

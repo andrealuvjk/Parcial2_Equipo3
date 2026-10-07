@@ -25,7 +25,9 @@ Demostración de un sistema de biblioteca universitaria que representa dos tipos
 Python: modelos orientados a objetos (biblioteca.py) y un programa (main.py) que registra seis materiales y muestra su información y sus días de préstamo.
 Frontend: una página web con el catálogo, el tipo de material, su disponibilidad y un botón para solicitar el préstamo.
 
-Estructura del repositorio
+Estructura del repositorio:
+
+
 nombre-proyecto/
 ├── Python/
 │   ├── biblioteca.py

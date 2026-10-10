@@ -88,3 +88,7 @@ Enviar la respuesta al frontend, que la mostrará al usuario.
 Flujo general: el usuario presiona el botón de préstamo → el frontend envía la petición al backend con el código del material → el backend valida, registra el préstamo y responde → el frontend muestra el resultado al usuario.
 
 
+## Documentación del Proyecto
+- [Diagrama de Clases](docs/diagrama-clases.jpg)
+- [Modelo de Base de Datos](docs/modelo-base-datos.jpg)
+- [Descripción de Clases Principales](docs/clases-principales.md 
